@@ -3,7 +3,6 @@ File Details-
 	test_pre_trained.py --> test game on pre computed q-value model
 	test_new.py --> test game on recently trained model
 	readq.py --> read q_values form file
-	q_val.pkl --> recent trained q-value model
 	pre_trained_qval.pkl --> pre computed q-value model
 
 NOTE: training takes ~100 Minutes of time for NUM_TRAIN = 1000000, but you will find better results than pre-trained model.
